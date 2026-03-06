@@ -31,6 +31,17 @@ It is built with:
 
 ---
 
+## 🔹 Screenshots
+
+Here are some screenshots of the app in action:
+
+![Home Page](https://github.com/mishra-khushboo/swiggy-rag-ai/blob/main/Screenshot%202026-03-06%20224315.png)  
+![Suggested Questions](https://github.com/mishra-khushboo/swiggy-rag-ai/blob/main/Screenshot%202026-03-06%20224333.png)  
+![Clicked Sentence QA](https://github.com/mishra-khushboo/swiggy-rag-ai/blob/main/Screenshot%202026-03-06%20224418.png)  
+![Embedding Map](https://github.com/mishra-khushboo/swiggy-rag-ai/blob/main/Screenshot%202026-03-06%20224525.png)  
+
+---
+
 ## 🔹 Installation
 
 1. Clone the repo:
@@ -81,7 +92,7 @@ Swiggy_RAG_Assignment/
 ├── requirements.txt        # All dependencies
 ├── README.md               # Project info & instructions
 ├── swiggy_report.pdf       # Dataset
-
+├── screenshots/            # Optional screenshots of app
 ```
 
 ---
@@ -95,7 +106,7 @@ Swiggy_RAG_Assignment/
 * **Embedding visualization** for a semantic map
 * Fully interactive **Streamlit web app** for demonstrations
 
-This project is **internship-ready** and demonstrates **real-world AI engineering skills**.
+
 
 ---
 
@@ -104,3 +115,7 @@ This project is **internship-ready** and demonstrates **real-world AI engineerin
 **Khushboo Mishra** – IT & AI Enthusiast
 
 * GitHub: [mishra-khushboo](https://github.com/mishra-khushboo)
+   
+
+Do you want me to do that?
+```
