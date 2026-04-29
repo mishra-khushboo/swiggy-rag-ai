@@ -79,7 +79,7 @@ streamlit run app.py
 * **File:** `swiggy_report.pdf`
 * **Source:** [Swiggy Investor Relations](https://www.swiggy.com/investor-relations)
 
-> Make sure to mention this link when submitting to meet assignment requirements.
+
 
 ---
 
